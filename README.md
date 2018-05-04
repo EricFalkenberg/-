@@ -1,3 +1,2 @@
 # 日本語
-お前はもう新でいる。
-
+A repository for my notes on the Japanese language.
