@@ -1,7 +1,5 @@
 ## Week 1
 
-### Vocabulary
-
 #### わたしはエリツクです。
 ```
 Translation: I am Eric
