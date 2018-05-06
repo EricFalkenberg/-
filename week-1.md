@@ -48,6 +48,31 @@ Pronunciation: so-re
 Example: それはなんですか。(what is it?)
 ```
 
+#### ほん
+```
+Translation: book
+Pronunciation: ho-n
+Example: だれのほんですか。(whose book is this?)
+```
+
+#### とけい
+```
+Translation: watch/clock
+Pronunciation: to-ke-i
+Example: わたしのとけいです。(this is my watch)
+```
 
 
-#### TODO
+#### せんせい
+```
+Translation: watch/clock
+Pronunciation: to-ke-i
+Example: こちらはわたしのせんせいです。(this is my teacher)
+```
+
+#### テーブル
+```
+Translation: table
+Pronunciation: te-bu-ru
+Example: これはユカさんのテブルです。(this is ms. yuka's table)
+```
