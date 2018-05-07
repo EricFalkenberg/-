@@ -2,7 +2,7 @@
 
 ### Grammar & Vocab (non-kanji)
 
-#### わたしはエリツクです。
+#### わたしはエリックです。
 ```
 Translation: I am Eric
 Pronunciation: wa-ta-shi wa e-ri-(tsu)-ku de-su.
