@@ -76,3 +76,38 @@ Translation: table
 Pronunciation: te-bu-ru
 Example: これはユカさんのテブルです。(this is ms. yuka's table)
 ```
+
+#### くつ
+```
+Translation: shoes
+Pronunciation: ku-tsu
+```
+
+#### すき
+```
+Translation: to like/love
+Pronunciation: su-ki
+```
+
+#### かれ / かのじょ
+```
+Translation: he / she
+Pronunciation: ka-re / ka-no-jyo
+```
+
+#### しゅみ
+```
+Translation: hobby
+Pronunciation: shu-mi
+```
+
+1) いち
+2) に
+3) ち
+4) し　　（よん）
+5) ご
+6) ろく
+7) しち　（なな）
+8) はち
+9) きゅ
+10) じゅ
