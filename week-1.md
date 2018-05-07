@@ -1,5 +1,7 @@
 ## Week 1
 
+### Grammar & Vocab (non-kanji)
+
 #### わたしはエリツクです。
 ```
 Translation: I am Eric
@@ -101,6 +103,8 @@ Translation: hobby
 Pronunciation: shu-mi
 ```
 
+### Numbers
+
 1) いち
 2) に
 3) ち
@@ -111,3 +115,19 @@ Pronunciation: shu-mi
 8) はち
 9) きゅ
 10) じゅ
+
+### Kanji
+
+#### 月
+```
+Hiragana: がつ
+Translation: month
+Pronunciation: ga-tsu
+```
+
+#### 日
+```
+Hiragana: にち
+Translation: day
+Pronunciation: ni-chi
+```
