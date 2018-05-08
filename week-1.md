@@ -67,8 +67,8 @@ Example: わたしのとけいです。(this is my watch)
 
 #### せんせい
 ```
-Translation: watch/clock
-Pronunciation: to-ke-i
+Translation: teacher
+Pronunciation: se-n-se-i
 Example: こちらはわたしのせんせいです。(this is my teacher)
 ```
 
